@@ -1,2 +1,3 @@
 For rebase test 1
 For rebase test 2
+For rebase test 3
